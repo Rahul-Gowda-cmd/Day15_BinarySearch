@@ -10,3 +10,4 @@ C:\Users\HP\csharp\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\Bin
 C:\Users\HP\csharp\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
 C:\Users\HP\csharp\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
 C:\Users\HP\csharp\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
+C:\Users\HP\csharp\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.AssemblyReference.cache
